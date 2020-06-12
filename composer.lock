@@ -2634,6 +2634,7 @@
                 "ext-xmlwriter": "*",
                 "ext-zip": "*",
                 "ext-zlib": "*",
+                "ext-intl": "*",
                 "markbaker/complex": "^1.4",
                 "markbaker/matrix": "^1.1",
                 "php": "^5.6|^7.0",
