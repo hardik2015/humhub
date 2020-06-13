@@ -18,7 +18,6 @@
         "ext-intl": "*",
         "ext-exif": "*",
         "ext-imagick": "*",
-        "ext-gmagick": "*",
         "ext-apcu": "*",
         "ext-sqlite3": "*",
         "bower-asset/jquery": "^3.4",
