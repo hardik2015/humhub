@@ -2637,7 +2637,6 @@
                 "ext-intl": "*",
                 "ext-exif": "*",
                 "ext-imagick": "*",
-                "ext-gmagick": "*",
                 "ext-apcu": "*",
                 "ext-sqlite3": "*",
                 "markbaker/complex": "^1.4",
